@@ -1,27 +1,82 @@
-# Aevura Labs
+<div align="center">
 
-> Build. Explore. Create.
+# AEVURA LABS
 
-Aevura Labs is an independent technology studio
-focused on software, artificial intelligence,
-operating systems, and experimental technology.
+### Build. Explore. Create.
 
-## Projects
+Independent technology studio building software,
+exploring AI, and experimenting with systems.
 
-- 🦷 Odentia — Digital dentistry platform
-- 🐧 Ovale — Experimental Linux distribution
-- 🤖 AI Systems — AI agents and experiments
-
-## What We Do
-
-We build projects to explore ideas,
-learn new technologies, and turn concepts
-into working software.
+</div>
 
 ---
 
-### Explore
+## About
 
-🌐 Website  
-💻 GitHub  
-📚 Projects
+Aevura Labs is an independent technology studio focused on
+building software, exploring artificial intelligence,
+and experimenting with new technologies.
+
+We turn ideas into real projects, prototypes, and
+digital experiences.
+
+---
+
+## What We Explore
+
+| Software | Artificial Intelligence | Systems | Digital Experiences |
+|---|---|---|---|
+| Web apps & tools | AI agents & systems | OS & low-level tech | Interactive experiences |
+
+---
+
+## Projects
+
+### 🦷 Odentia
+A digital platform exploring dentistry, education,
+and interactive experiences.
+
+**Web · Education · 3D**
+
+---
+
+### 🐧 Ovale
+An experimental Linux distribution built as a journey
+into operating systems and low-level technology.
+
+**Linux · Systems · OS Development**
+
+---
+
+### 🤖 AI Systems
+Experiments and projects exploring artificial intelligence,
+automation, and intelligent software.
+
+**AI · Automation · Python**
+
+---
+
+## Philosophy
+
+> Ideas are the beginning.
+> Technology makes them real.
+
+We build to learn, experiment, and create.
+
+---
+
+## Explore
+
+🌐 **Website**  
+💻 **GitHub**  
+📦 **Projects**
+
+---
+
+<div align="center">
+
+**Aevura Labs**
+
+*Build. Explore. Create.*
+
+</div>

@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/aevura-header.png" width="100%">
+</p>
+
 <div align="center">
 
 # AEVURA LABS
